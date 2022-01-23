@@ -36,14 +36,13 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## Built With
-
-  ${data.languages}
 
   ## Table of Contents
 
   * [Installation](#intallation)
 
+  * [Built With](#languages)
+  
   * [Usage](#usage)
   * ${renderLicenseLink(data.license)}
 
@@ -59,6 +58,9 @@ function generateMarkdown(data) {
   
   ${data.installation}
 
+  ## Built With
+
+  ${data.languages}
 
   ## Usage
 
@@ -79,7 +81,9 @@ To run tests, run the following command
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at
-${data.email}. You can find more of my work at [${data.github}](https://github.com/${data.github}/).
+${data.email}. 
+
+You can find more of my work at https://github.com/${data.github}.
 `;
 }
 

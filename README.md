@@ -3,16 +3,15 @@
 
   ## About The Project
 
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas
+  An app developed using Node and JS that ask questions from the command line to generate and amazing README file that includes all the necessary components. It is quick and efficient and well layout. It includes information such as how to contact me, the installation packages used, the languages, the contribution, test and even the licence that was used. This app even includes a table of contents that is interactive and when clicking on the title you would like to read it will take you directly to that section of the README.
 
-  ## Built With
-
-  JavaScript,Node
 
   ## Table of Contents
 
   * [Installation](#intallation)
 
+  * [Built With](#languages)
+  
   * [Usage](#usage)
   * [License](#license)
 
@@ -28,10 +27,13 @@
   
   npm install
 
+  ## Built With
+
+  JavaScript,Node
 
   ## Usage
 
-  
+  This app is very simple to use. You simply run your application using node index.js and a series of questions will populate.  Simply fill in the answers as they are prompted to the best of your ability making sure to press enter every time you have completed your response to submit it. After completing all of your question in just seconds and amazing README will be generated including a Table of contents. It is fun and easy to use.
 
   ## License
     
@@ -39,7 +41,7 @@
 
   ## Contributing
 
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas
+  “This section mostly will be useful if you are developing an open-source project that you will need other developers to contribute to. You will want to add guidelines to let them know how they can contribute to your project. Also it is important to make sure that the licence you choose for an open-source projects is correct to avoid future conflicts. And adding contribution guidelines will play a big role.Some of the most common guidelines include the Contributor Covenant and the Contributing guide. These docs will give you the help you need when setting rules for your project.”
 
 ## Tests
 
@@ -50,4 +52,6 @@ To run tests, run the following command
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at
-tinastouc@gmail.com. You can find more of my work at [tinastouch](https://github.com/tinastouch/).
+tinastouch@gmail.com. 
+
+You can find more of my work at https://github.com/tinastouch.
