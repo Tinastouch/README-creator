@@ -8,7 +8,7 @@
 
   ## Table of Contents
 
-  * [Installation](#intallation)
+  * [Installation](#installation)
 
   * [Built With](#languages)
   
